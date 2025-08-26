@@ -31,7 +31,7 @@ To run this attack, you need to use the LM Studio. Replace the `mcp.json` file f
 
 ## Data Exfiltration: Environment String Injection Attack Leads to Information Leak
 
-The notebook `openai_tag_eg.ipynb` demostrates this attack. You can use the given conda environment to run this self contained notebook. 
+The notebook `openai_tag_eg.ipynb` demostrates this attack. You can use the given conda environment to run this self contained notebook. There are also automated checks which would allow the user to run multiple tests.
 
 ## Loading the Conversation File
 
