@@ -1,0 +1,10 @@
+{
+  "command": "python",
+  "args": [
+    "fast_mcp_server.py"
+  ],
+  "env": {
+    "PYTHONPATH": ".",
+    "PYTHONUNBUFFERED": "1"
+  }
+}

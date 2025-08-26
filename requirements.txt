@@ -1,0 +1,10 @@
+doomarena==0.0.4
+fastmcp==2.11.3
+huggingface-hub==0.34.3
+mcp==1.13.0
+numpy==2.3.2
+openai==1.100.1
+pydantic==2.11.7
+pytz==2025.2
+torch==2.8.0
+uvicorn==0.35.0
